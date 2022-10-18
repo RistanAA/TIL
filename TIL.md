@@ -12,3 +12,23 @@ We make a sort description about our project with the wireframes
 
 ### My Goal in this bootcamp
 Become a good website developer that able to works as a team and make me more confident to apply some jobs :D 
+
+# Day 2
+We just start our project from creating github for our project so we can easily to share any changes.
+Mentor come and ask our progress and he give us some suggestion :D 
+![image](https://user-images.githubusercontent.com/85722211/196497880-78d09851-3d73-41be-933f-4edea9ba6e9a.png)
+
+
+### Today Goals
+we must complete the login feature and we've done that :)
+![image](https://user-images.githubusercontent.com/85722211/196498601-f4c605f6-cabe-4660-8588-58cfda6b0875.png)
+
+
+### What ive done today ?
+we do some experiment to make login feature together.
+we got some trouble for implementing the login feature, but at the end we can solve it.
+i think we must get more focus in focus time 
+
+### Tomorrow goals?
+I think we can finish the project tomorrow, so we can prepare about video presentation later
+
