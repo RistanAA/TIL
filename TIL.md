@@ -34,10 +34,12 @@ I think we can finish the project tomorrow, so we can prepare about video presen
 
 # Day 3
 Today, the progress of our mini project is 90%. we have completed the voting feature that is add idea(create our idea and can delate user's idea, vote(only 1 vote per user, can cancel user's vote, and if the votes reach same as total user it will add notification what is the chosen idea using sweetalert)
+
 ![image](https://user-images.githubusercontent.com/85722211/196883195-b8d4e9aa-dcb7-4542-9f6a-3bf5c9e83ac8.png)
 
 ### new things that i learn today
 i usually use laravel framework to make a website, but in this project we use flask. today i just want to do a simple query to database, but now we are using noSql database that is mongodb. at first i having trouble for just do a simple query, but after i read the documentation and got error a few times :D, its not that complicated.
+
 ![image](https://user-images.githubusercontent.com/85722211/196884630-1b013691-a3c8-44fa-982b-72f9b1224dd4.png)
 
 ### Tomorrow plan
