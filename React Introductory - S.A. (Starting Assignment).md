@@ -27,6 +27,23 @@ We can freeze (make immutable) an object using the function Object.freeze(obj). 
 * Hoisting is mechanism where variables and function declarations are moved to the top of their scope before code execution. Inevitably, this means that no matter where functions and variables are declared, they are moved to the top of their scope regardless of whether their scope is global or local.
 * TDZ(temporal dead zone) is the area of a block where a variable is inaccessible until the moment the computer completely initializes it with a value.
 
+* Different ways of hoisting in Function Declarations and Function Expressions. 
+  * Function declarations are executing on compilation phase ( Function declarations load before any code is executed )
+  * Function expressions are executing on execution phase of JS engine ( Function expressions load only when the interpreter reaches that line of code )
+
+* Execution Context is an environment in which a piece of JavaScript is executed. It stores all the necessary information for some code to be executed, such as local variables or arguments passed into a function.
+
+![image](https://user-images.githubusercontent.com/85722211/197224040-a72549d6-7c03-44ba-bd5e-cd03d0a51a6d.png)
+
+
+* Call Stack is place where execution contexts get stacked on top of each other, in order to keep track of where we are in the program’s execution (the order of execution).
+
+![image](https://user-images.githubusercontent.com/85722211/197223968-428ff327-1b85-4e8c-a2d0-ca1e5d49c715.png)
+
+* Scope Chain means that one variable has a scope (it may be global or local/function or block scope) is used by another variable or function having another scope (may be global or local/function or block scope). This complete chain formation goes on and stops when the user wishes to stop it according to the requirement.
+* In terms of programming, information hiding refers to the practice of concealing implementation details that are unfit for the consumers of the code. the consumers would be the other developers and end user.
+
+
 #### Exercise
 ```javascript
 let b = 1;
