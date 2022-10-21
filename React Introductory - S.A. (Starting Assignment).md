@@ -69,6 +69,6 @@ hi();
 console.log(b);
 ```
 
-* What would be the “b” value printed on the console? the value is 1
+* What would be the “b” value printed on the console? the value is 1 and b in hi function is 101
 * Which “b” value would be printed from which line of console.log? Explain why. it will use the global declared at first line, not 'b' in hi function, because console.log called outsite the hi function.
 * What would be `//console.log(a);` in the comment? If there’s an error, explain why and fix the error. the error is caused by we call a at outsite the hi function, because variable a was declared in hi function, so we just declared a at global scope and it will fix the error
