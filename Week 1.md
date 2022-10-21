@@ -45,3 +45,15 @@ i usually use laravel framework to make a website, but in this project we use fl
 ### Tomorrow plan
 tommorrow we will deploy the project to heroku after we might try the mentor's advice for making a timer for vote. after that we will make demo video. 
 
+# Day 4
+Today is the last day of week 1 in LXI-Sparta Bootcamp, we try to implement timer feature but it doesn't work well, the timer is working but because of some changes in other feature in order to trigger the timer, it caused bug on other crud feature. So when the mentor came in and we just tell him what is our problem, he said if the timer feature doesn't work and the deadline is coming, he suggest us to implement register form and show the result of the votes which is easier.
+
+![image](https://user-images.githubusercontent.com/85722211/197093508-3fab98f1-8a59-48b8-b73f-6453eae82945.png)
+![image](https://user-images.githubusercontent.com/85722211/197094160-4e0be781-a3ee-49a4-89b5-5af75a6687ae.png)
+
+After we finish with that features we deploy it to heroku (https://polar-chamber-01715.herokuapp.com/) and make a video demonstration about how the features in website work then submit the mini project
+
+video link : https://www.youtube.com/watch?v=2IQSaeUOeHM
+
+Thanks to SpartaCodingClub for amazing week 1 bootcamp, i hope i can be a skilled Full-Stack web developer
+
