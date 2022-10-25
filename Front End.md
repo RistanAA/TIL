@@ -15,3 +15,13 @@ today we are working on team task, discussing about the answer and  googling abo
 ### Tomorrow Goals ?
 * Finish the personal task
 * Continue the team task
+
+# Day 4
+Today we continuing our team personal task. when mentor looking my personal task code, he ask me to implement the immutable, now i'm don't fully understand about immutable in react so i'll searching about it later.
+
+### What i learn Today ?
+* i try to use react bootsrap in personal task project, i try to use it, but i dont know why when i use 'row', the result is not same as what i've expected, i already ask to mentor, and he said maybe there are some style that override, so i'll try to fix it later.
+* implementing component file structure
+
+### Tommorow Goals ?
+* Finish the personal task ('done' feature)
