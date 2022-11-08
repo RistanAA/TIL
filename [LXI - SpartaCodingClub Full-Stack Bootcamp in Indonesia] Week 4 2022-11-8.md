@@ -1,4 +1,4 @@
-# Day 7 
+# Day 6 
 Today we are continuing diy section on team task,
 
 The key word that we select are :
