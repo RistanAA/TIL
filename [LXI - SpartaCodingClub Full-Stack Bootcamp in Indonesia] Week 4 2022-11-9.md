@@ -18,7 +18,7 @@ Today is the submision time of team project, but we are not finish all the requi
 ![image](https://user-images.githubusercontent.com/85722211/200894974-75603c8d-e632-49c0-9d06-23cdbd45c817.png)
 
 * Search function
-* 
+
 ![image](https://user-images.githubusercontent.com/85722211/200895211-6a1a23b8-4c72-4966-a6b3-2efe449605cf.png)
 
 the function it self can return what we searching, but it affect the plus and minus quantity that somehow can't be clicked when we click on the result of the search. 
@@ -39,4 +39,6 @@ so i think the problem its not in the code but something with the server. so whe
 
 and it solve the problem
 
+### Tomorrow goals
+First we will finishing this project from 10 am, and also rewatching the lecture video 
 
