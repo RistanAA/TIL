@@ -12,3 +12,7 @@ Today is the last day of this week, we just have finish the weekly test.
    Redux Thunk is a middleware that allows to write action creators that return a function instead of an action. it can be used async or delay to dispatch of an action.
 5. Custom Hook
    there are many hooks in react. but we can make our custom hook with any function that we want
+   
+## Next Week Goals
+1. finish lecture video in week end
+2. Prepare a plan for working on a team task carefully, so we can finish the team task before deadline
