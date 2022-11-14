@@ -14,6 +14,9 @@ In mentoring session, i asked about session for our project and mentor said that
 
 ### Home Page
 ![image](https://user-images.githubusercontent.com/85722211/201716066-ef72e977-c53f-42f3-b19d-9ec79ecbef11.png)
+
+![image](https://user-images.githubusercontent.com/85722211/201716736-f786e964-d2c9-49e2-979e-6224aefc4b84.png)
+
  
  we already using live server to get users and movies data
  
