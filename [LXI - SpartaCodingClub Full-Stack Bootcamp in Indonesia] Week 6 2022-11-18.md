@@ -16,6 +16,7 @@ we need to setup the header and use the bearer user access token to be able to u
 
 then i try to do the MBTI and my result is 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab256057-ef38-4a2a-87d3-e42326b5eee5/Untitled.png)
+![image](https://user-images.githubusercontent.com/85722211/202757452-0f0ccbb4-daba-418f-925d-2972b80d414d.png)
+
 
   
