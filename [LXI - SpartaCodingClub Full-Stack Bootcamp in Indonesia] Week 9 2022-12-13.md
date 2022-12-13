@@ -4,12 +4,12 @@ Today i trying to implement the wireframe to code, here the result
 ![image](https://user-images.githubusercontent.com/85722211/207376899-0e8c98a1-0f6e-40a2-9524-9e8251dde21b.png)
 
 
-![image](https://user-images.githubusercontent.com/85722211/207374624-dacd211c-bdee-494a-b379-fe9f17946a3d.png)
+![image](https://user-images.githubusercontent.com/85722211/207379361-f3f78840-a059-4a51-b989-f392ceaf8e34.png)
 
 ### Progress
 * the game is working now, but it still only matching the image and add turn features
 
-![image](https://user-images.githubusercontent.com/85722211/207375387-180e2059-2f2f-4609-ac82-d4456e7a0179.png)
+![image](https://user-images.githubusercontent.com/85722211/207379281-ff1b2fc7-68fd-491b-8b6e-5a7e89851674.png)
 
 * we also make some flipping animation when clicking the image 
 
