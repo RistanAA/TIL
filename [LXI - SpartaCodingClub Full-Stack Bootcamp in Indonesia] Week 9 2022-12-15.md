@@ -7,6 +7,7 @@ This feature is for save the game progress if the user try to navigate to somewh
 
 So here's my code 
 i use redux toolkit
+
 ![image](https://user-images.githubusercontent.com/85722211/207906813-2de38067-5220-46b2-80dd-8c20b7c6c9fb.png)
 
 and i use useEffect to hook the dispatch function whenever cards state has changes
